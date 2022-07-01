@@ -22,18 +22,18 @@ la deltaT media mensile (la media delle deltaT dei giorni di quel mese)
 
 per tutti i gennaio
 la Tmedia di gennaio (la media delle Tmedie dei gennaio degli X anni presi in esame)
-"mediamente in gennaio a VR la temperatura è Y°C"
+"mediamente in gennaio a VR la temperatura ï¿½ Yï¿½C"
 la Tmax media di gennaio (la media delle Tmax dei gennaio degli X anni presi in esame)
-"mediamente in gennaio a VR la temperatura massima è Y°C"
+"mediamente in gennaio a VR la temperatura massima ï¿½ Yï¿½C"
 la Tmin media di gennaio (la media delle Tmin dei gennaio degli X anni presi in esame)
-"mediamente in gennaio a VR la temperatura minima è Y°C"
+"mediamente in gennaio a VR la temperatura minima ï¿½ Yï¿½C"
 la deltaT media di gennaio (la media delle deltaT dei gennaio degli X anni presi in esame)
-"mediamente in gennaio a VR l'escursione termica è Y°C"
+"mediamente in gennaio a VR l'escursione termica ï¿½ Yï¿½C"
 hanno senso i seguenti valori?
 
 la Tmax di gennaio (la Tmax riscontrata in gennaio negli X anni presi in esame)
-"a gennaio a VR la Tmax può essere anche di Y°C"
+"a gennaio a VR la Tmax puï¿½ essere anche di Yï¿½C"
 la Tmin di gennaio (la Tmin riscontrata in gennaio negli X anni presi in esame)
-"a gennaio a VR la Tmin può essere anche di Y°C"
+"a gennaio a VR la Tmin puï¿½ essere anche di Yï¿½C"
 la deltaT max di gennaio (la deltaT massima riscontrata in gennaio negli X anni presi in esame)
-"a gennaio a VR l'escursione termica può essere anche di Y°C"
+"a gennaio a VR l'escursione termica puï¿½ essere anche di Yï¿½C"
